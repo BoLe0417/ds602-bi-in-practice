@@ -1,0 +1,10 @@
+month,region,country,target,unique_customers,status
+2026-08-01,Region A,Country 1,75,66,Missed
+2026-08-01,Region B,Country 2,42,47,Ahead
+2026-08-01,Region C,Country 3,39,44,Ahead
+2026-08-01,Region D,Country 4,28,31,Ahead
+2026-08-01,Region D,Country 5,18,16,Missed
+2026-08-01,Region E,Country 6,18,16,Missed
+2026-08-01,Region E,Country 7,8,9,Ahead
+2026-08-01,Region E,Country 8,14,12,Missed
+2026-08-01,Region E,Country 9,13,14,Ahead

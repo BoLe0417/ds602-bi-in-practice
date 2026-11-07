@@ -1,0 +1,10 @@
+month,region,country,company_count_target,company_count_actual,status
+2026-08-01,Region A,Country 1,135,119.0,Missed
+2026-08-01,Region B,Country 2,116,130.0,Ahead
+2026-08-01,Region C,Country 3,104,116.0,Ahead
+2026-08-01,Region D,Country 4,59,66.0,Ahead
+2026-08-01,Region D,Country 5,51,45.0,Missed
+2026-08-01,Region E,Country 6,47,41.0,Missed
+2026-08-01,Region E,Country 7,22,25.0,Ahead
+2026-08-01,Region E,Country 8,30,26.0,Missed
+2026-08-01,Region E,Country 9,29,32.0,Ahead
